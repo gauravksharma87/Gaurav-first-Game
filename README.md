@@ -1,4 +1,4 @@
-# Memory Game
+# Memory Game of Gaurav
 
 A responsive and accessible Memory (Concentration) card game built with HTML, CSS, and JavaScript.
 
